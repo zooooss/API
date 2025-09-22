@@ -1,0 +1,4 @@
+﻿  callback.cpp
+C:\0915\Callback\callback.cpp(56,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+C:\0915\Callback\callback.cpp(57,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Callback.vcxproj -> C:\0915\Callback\x64\Debug\Callback.exe
