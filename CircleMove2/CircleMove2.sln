@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircleMove2", "CircleMove2.vcxproj", "{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}.Debug|x64.ActiveCfg = Debug|x64
+		{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}.Debug|x64.Build.0 = Debug|x64
+		{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}.Debug|x86.Build.0 = Debug|Win32
+		{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}.Release|x64.ActiveCfg = Release|x64
+		{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}.Release|x64.Build.0 = Release|x64
+		{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}.Release|x86.ActiveCfg = Release|Win32
+		{A5215FFC-32E2-4FF2-A781-92BEE5CCF00D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F76F7265-AE26-4946-AF3F-0667B912B6E3}
+	EndGlobalSection
+EndGlobal
