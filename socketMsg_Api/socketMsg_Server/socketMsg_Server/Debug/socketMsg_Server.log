@@ -1,0 +1,3 @@
+﻿  socketMsg_Server.cpp
+C:\Users\ku12\Desktop\socketMsg_Server\socketMsg_Server.cpp(48,2): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  socketMsg_Server.vcxproj -> C:\Users\ku12\Desktop\socketMsg_Server\Debug\socketMsg_Server.exe
