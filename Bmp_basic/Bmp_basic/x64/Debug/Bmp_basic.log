@@ -1,0 +1,4 @@
+﻿  bmp_basic.cpp
+C:\Users\ku12\Desktop\Bmp_basic\bmp_basic.cpp(117,44): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ku12\Desktop\Bmp_basic\bmp_basic.cpp(120,34): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : fatal error LNK1168: C:\Users\ku12\Desktop\Bmp_basic\x64\Debug\Bmp_basic.exe을(를) 쓰기용으로 열 수 없습니다.
